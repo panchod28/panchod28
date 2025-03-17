@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🖖I’m a seventh-semester software engineering student and a junior developer who loves to code! I enjoy exploring backend development⚙️, mobile apps📱, and videogames🎮</p>
+<p align="left">🖖I’m a eighth-semester software engineering student and a junior developer who loves to code! I enjoy exploring backend development⚙️, mobile apps📱, and videogames🎮</p>
 
 ###
 
